@@ -50,7 +50,7 @@
 		"glob-to-regexp": "0.4.1",
 		"sharp": "^0.33.5",
 		"stoppable": "1.1.0",
-		"undici": "catalog:default",
+		"undici": "7.18.2",
 		"workerd": "1.20251125.0",
 		"ws": "catalog:default",
 		"youch": "4.1.0-beta.10",
